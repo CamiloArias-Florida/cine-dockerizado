@@ -109,7 +109,7 @@ eliminar este registro?\");'>";
             ?>
         </tbody>
     </table>
-    <h2>Añadir Nueva Película</h2>
+    <h2>Añadir Nueva Pelaaícula</h2>
     <form method="post" enctype="multipart/form-data">
         <label for="titulo">Título:</label><br>
         <input type="text" id="titulo" name="titulo" required><br><br>
